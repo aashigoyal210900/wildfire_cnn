@@ -1,4 +1,4 @@
-# Project File Structure
+# Predicting the Occurrence of Wildfire using Convolution Neural Network
 
 This README outlines the structure and contents of our project files, including datasets and notebooks.
 
